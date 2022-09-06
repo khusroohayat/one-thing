@@ -6,6 +6,7 @@ specifiers:
   '@types/react-dom': ^18.0.6
   '@vitejs/plugin-react': ^2.0.1
   autoprefixer: ^10.4.8
+  js-confetti: ^0.10.2
   postcss: ^8.4.16
   react: ^18.2.0
   react-dom: ^18.2.0
@@ -14,6 +15,7 @@ specifiers:
 
 dependencies:
   '@heroicons/react': 2.0.1_react@18.2.0
+  js-confetti: 0.10.2
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
 
@@ -913,6 +915,10 @@ packages:
     resolution: {integrity: sha512-41Cifkg6e8TylSpdtTpeLVMqvSBEVzTttHvERD741+pnZ8ANv0004MRL43QKPDlK9cGvNp6NZWZUBlbGXYxxng==}
     engines: {node: '>=0.12.0'}
     dev: true
+
+  /js-confetti/0.10.2:
+    resolution: {integrity: sha512-/ppeGV3sOJ/DDH43ABbqe8V/9Fx5TUNkywPlXr9YK9OK6++olMtRP/yRdXftl49iTIAAdoNopkgAy3SLOgSE+A==}
+    dev: false
 
   /js-tokens/4.0.0:
     resolution: {integrity: sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==}
